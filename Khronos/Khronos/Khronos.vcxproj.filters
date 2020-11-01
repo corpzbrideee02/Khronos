@@ -122,5 +122,11 @@
     <ClCompile Include="ut\ut_Khronos_04_jd_to_gregorian.cpp">
       <Filter>Source Files\utsrc</Filter>
     </ClCompile>
+    <ClCompile Include="ut\ut_Khronos_05_gregorian_conv_full.cpp">
+      <Filter>Source Files\utsrc</Filter>
+    </ClCompile>
+    <ClCompile Include="ut\ut_Khronos_06_jd_class.cpp">
+      <Filter>Source Files\utsrc</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

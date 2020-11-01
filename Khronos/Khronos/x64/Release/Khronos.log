@@ -1,6 +1,3 @@
-﻿jd.obj : error LNK2005: "void __cdecl khronos::jd_to_gregorian(double,__int64 &,int &,int &)" (?jd_to_gregorian@khronos@@YAXNAEA_JAEAH1@Z) already defined in gregorian_to_jd.obj
-jd.obj : error LNK2005: "void __cdecl khronos::detail::jd_to_gregorian_real(double,__int64 &,int &,int &)" (?jd_to_gregorian_real@detail@khronos@@YAXNAEA_JAEAH1@Z) already defined in gregorian_to_jd.obj
-jd.obj : error LNK2005: "double __cdecl khronos::gregorian_to_jd(__int64,int,int,int,int,double)" (?gregorian_to_jd@khronos@@YAN_JHHHHN@Z) already defined in gregorian_to_jd.obj
-jd.obj : error LNK2005: "double __cdecl khronos::gregorian_to_jd(__int64,int,int)" (?gregorian_to_jd@khronos@@YAN_JHH@Z) already defined in gregorian_to_jd.obj
-jd.obj : error LNK2005: "double __cdecl khronos::detail::greg2jd_real(__int64,int,int)" (?greg2jd_real@detail@khronos@@YAN_JHH@Z) already defined in gregorian_to_jd.obj
-C:\Users\d_cor\Desktop\All files\Dianne\3rd sem\oop-cpp\project\Khronos\Khronos\x64\Release\Khronos.exe : fatal error LNK1169: one or more multiply defined symbols found
+﻿  jd_to_gregorian.cpp
+ut_Khronos_04_jd_to_gregorian.obj : error LNK2001: unresolved external symbol "void __cdecl khronos::jd_to_gregorian(double,__int64 &,int &,int &,int &,int &,double &)" (?jd_to_gregorian@khronos@@YAXNAEA_JAEAH111AEAN@Z)
+C:\Users\d_cor\Khronos\Khronos\x64\Release\Khronos.exe : fatal error LNK1120: 1 unresolved externals

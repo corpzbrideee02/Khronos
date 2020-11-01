@@ -4,24 +4,48 @@ c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\vulcan.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\julian_to_jd.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\julian.obj
+c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\jd_to_gregorian.obj
+c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\jd.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\islamic_to_jd.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\islamic.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\hebrew_to_jd.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\hebrew.obj
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\jd_to_gregorian.obj
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\jd.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\gregorian_to_jd.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\gregorian.obj
+c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\ut_khronos_04_jd_to_gregorian.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\ut_khronos_01_concepts.obj
 c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\ut_khronos_03_gregorian_to_jd.obj
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\x64\debug\khronos.pdb
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\cl.command.1.tlog
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\cl.read.1.tlog
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\cl.write.1.tlog
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\link-cvtres.read.1.tlog
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\link-cvtres.write.1.tlog
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\link-rc.read.1.tlog
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\link-rc.write.1.tlog
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\link.command.1.tlog
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\link.read.1.tlog
-c:\users\d_cor\desktop\all files\dianne\3rd sem\oop-cpp\project\khronos\khronos\khronos\x64\debug\khronos.tlog\link.write.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\vc142.pdb
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\vc142.idb
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\ut_khronos_00_main.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\vulcan.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\julian_to_jd.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\julian.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\jd_to_gregorian.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\jd.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\islamic_to_jd.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\islamic.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\hebrew_to_jd.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\hebrew.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\gregorian_to_jd.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\gregorian.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\ut_khronos_04_jd_to_gregorian.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\ut_khronos_01_concepts.obj
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\ut_khronos_03_gregorian_to_jd.obj
+c:\users\d_cor\khronos\khronos\x64\debug\khronos.pdb
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\cl.command.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\cl.read.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\cl.write.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link-cvtres.read.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link-cvtres.write.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link-rc.read.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link-rc.write.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link.8120-cvtres.read.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link.8120-cvtres.write.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link.8120-rc.read.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link.8120-rc.write.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link.8120.read.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link.8120.write.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link.command.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link.read.1.tlog
+c:\users\d_cor\khronos\khronos\khronos\x64\debug\khronos.tlog\link.write.1.tlog

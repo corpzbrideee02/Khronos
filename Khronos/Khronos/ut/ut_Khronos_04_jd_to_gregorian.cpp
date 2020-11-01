@@ -19,9 +19,6 @@ using namespace khronos;
 #endif
 
 
-
-
-
 #if PHASE_9 && TEST_PHASES>=9
 /**	Test known JD to Gregorian conversions. */
 BEGIN_PHASE(9, test_jd_to_gregorian) {

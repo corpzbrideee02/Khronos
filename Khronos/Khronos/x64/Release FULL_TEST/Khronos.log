@@ -1,0 +1,9 @@
+﻿  gregorian.cpp
+  gregorian_to_jd.cpp
+C:\Users\d_cor\Khronos\Khronos\Khronos\libsrc\gregorian_to_jd.cpp(64,57): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\d_cor\Khronos\Khronos\Khronos\libsrc\gregorian_to_jd.cpp(64,27): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+  jd_to_gregorian.cpp
+  ut_Khronos_04_jd_to_gregorian.cpp
+ut_Khronos_04_jd_to_gregorian.obj : error LNK2001: unresolved external symbol "void __cdecl khronos::jd_to_gregorian(double,__int64 &,int &,int &)" (?jd_to_gregorian@khronos@@YAXNAEA_JAEAH1@Z)
+ut_Khronos_04_jd_to_gregorian.obj : error LNK2001: unresolved external symbol "void __cdecl khronos::jd_to_gregorian(double,__int64 &,int &,int &,int &,int &,double &)" (?jd_to_gregorian@khronos@@YAXNAEA_JAEAH111AEAN@Z)
+C:\Users\d_cor\Khronos\Khronos\x64\Release FULL_TEST\Khronos.exe : fatal error LNK1120: 2 unresolved externals

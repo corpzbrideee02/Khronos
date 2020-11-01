@@ -24,17 +24,17 @@
 
 // set 'PHASE_dd' to 'false' for any test phase you wish to skip
 #define PHASE_1 false
-#define PHASE_2 false//STILL HAVE ERRORS..
+#define PHASE_2 false
 #define PHASE_3 false
 #define PHASE_4 false
 #define PHASE_5 false
 #define PHASE_6 false
 #define PHASE_7 false	
 #define PHASE_8 false	
-#define PHASE_9 true	//i'm here
+#define PHASE_9 true	//still have error
 
-#define PHASE_10 false
-#define PHASE_11 false
+#define PHASE_10 false 
+#define PHASE_11 false	//i'm here
 #define PHASE_12 false
 #define PHASE_13 false
 #define PHASE_14 false

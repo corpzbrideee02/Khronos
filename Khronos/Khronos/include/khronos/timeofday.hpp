@@ -58,16 +58,27 @@ namespace khronos {
 	//	//double frst = (sec + 60.0 * (min + 60.0 * hr)) / sec_in_day;
 	//	//sec = sec * 60.0;
 	//	//return (sec + 60.0 * (min + (60.0 * hr)))/ seconds_per_day;
-	//	return ((sec * 60.0 + min) * 60.0 + hr) / SECONDS_PER_DAY;
+	//	return ((sec * 60.0 + min) * 60.0 + hr) / SECONDS_PER_DAY;+++
 
 	//}
 
 	inline void hms(hour_t& hr, minute_t& min, second_t& sec)
 	{
-		sec_in_day = floor((tod((unsigned long long)sec, min, hr))* SECONDS_PER_DAY +0.5);
-		hr = (int)sec_in_day / (60 * 60);
-		min = (int)utility::mod((sec_in_day / 60), 60);
-		sec = utility::mod(sec_in_day, 60);
+		//hr = static_cast<double>(hr);
+		//sec = static_cast<unsigned long long>(sec);
+		//double hour_;
+		//unsigned long long seconds_;
+		sec_in_day = floor((tod(sec, min, hr))* SECONDS_PER_DAY +0.5);
+
+		static_cast<double>(hr);
+		static_cast<unsigned long long>(sec);
+		hr =sec_in_day/3600;
+	
+		min = utility::mod((sec_in_day / 60), 60);
+		sec =utility::mod(sec_in_day, 60);
+	
+
+	
 	}
 
 	//-----------------------------------------------------------------------------------------------

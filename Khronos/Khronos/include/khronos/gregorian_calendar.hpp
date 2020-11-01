@@ -64,6 +64,8 @@ namespace khronos {
 
 	jd_t	gregorian_to_jd(year_t year, month_t month, day_t day, hour_t h, minute_t min, second_t sec);
 	void	jd_to_gregorian(jd_t jd, year_t&year, month_t& month, day_t& day, hour_t& hr, minute_t& min, second_t& sec);
+
+
 	//void	jd_to_gregorian(jd_t jd, year_t& year, month_t& month, day_t& day);
 
 	//jd_t greg2jd_real(year_t year, month_t month, day_t dayOfMonth);
@@ -78,9 +80,19 @@ namespace khronos {
 		year_t year_ = 1;
 		month_t month_ = 1;
 		day_t day_ = 1;
+
+		//added====================
+		hour_t hr_ = 1;
+		minute_t min_ = 1;
+		second_t sec_ = 1;
+
+
+		//void from_jd(jd_t jd) { jd_to_gregorian(jd, year_, month_, day_, hr_, min_, sec_); }
+
+		//-----------------------------
 		void from_jd(jd_t jd) { jd_to_gregorian(jd, year_, month_, day_); }
 		jd_t to_jd() const { return gregorian_to_jd(year_, month_, day_); }
-		
+
 
 	public:
 		Gregorian();
@@ -111,7 +123,7 @@ namespace khronos {
 		constexpr Gregorian(year_t year, month_t month, day_t day) : year_(year), month_(month), day_(day) {}
 
 
-
+		//constexpr Gregorian(year_t year, month_t month, day_t day,hour_t hr, minute_t min, second_t sec): year_(year), month_(month), day_(day), hr_ (hr),min_(min),sec_(sec) {}
 
 
 		/** Construct a Gregorian date from Julian Day Number object.
